@@ -1,12 +1,5 @@
-### The Replacement
-Don't trust anyone claming to represent RCO, they are more than likely attempting to mislead you.<br>
-<br>
-The only recommended replacement for RCO is Bloxstrap, created by a passionate team of developers, who I can guarantee, know what they're doing, and know as much about FFlags as I do.
-<br>
-<br>
-[Click here to check out Bloxstrap.](https://github.com/pizzaboxer/bloxstrap)
-### Final Goodbyes
-Thank you to everyone who supported the RCO project, but it's time for me to get on with my life, away from the limelight and away from Roblox.
-<br>
-<br>
-I'll see you on the other side.
+# R-Optimise
+
+This is the Roblox Client Optimizer simplified, with some extra tweaks added. FPS cap is increased to 42255 (basically infinite).
+
+DISCLAIMER: The <a href="https://github.com/L8X/Roblox-Client-Optimizer.git/">original project</a> has been discontinued and this is not a replacement for the original as it is a more simplified version of the original with many features taken out, one of the major ones being the GUI installer.
